@@ -7,3 +7,4 @@ In this data-driven project, I embarked on a journey to unlock insights from a r
 - Pandas & Numpy
 - Excel
 - Kaggle (dataset)
+- Tableau 
