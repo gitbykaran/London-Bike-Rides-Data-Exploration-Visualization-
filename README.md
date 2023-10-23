@@ -8,3 +8,5 @@ In this data-driven project, I embarked on a journey to unlock insights from a r
 - Excel
 - Kaggle (dataset)
 - Tableau 
+
+### Data Visulization using Tableau 
